@@ -75,7 +75,9 @@
 	};
 };
 
-&joystick_listener {
-	device = <&anin0>;
-	compatible = "zmk,input-listener"
-}
+/ {
+    joystick_listener {
+        compatible = "zmk,input-listener";
+        device = <&anin0>;
+    };
+};
