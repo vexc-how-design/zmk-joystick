@@ -18,10 +18,10 @@ config CONFIG_ADC_ASYNC
 config CONFIG_ANALOG_INPUT
     default y
 
-config CONFIG CONFIG_ANALOG_INPUT_LOG_DBG_RAW
+config CONFIG_ANALOG_INPUT_LOG_DBG_RAW
     default y
 
 config CONFIG_ANALOG_INPUT_LOG_DBG_REPORT
     default y
-    
+
 endif
