@@ -9,19 +9,19 @@ config ZMK_KEYBOARD_NAME
 config ZMK_POINTING
     default y
 
-config CONFIG_ADC
-    default y
+# config CONFIG_ADC
+#     default y
 
-config CONFIG_ADC_ASYNC
-    default y
+# config CONFIG_ADC_ASYNC
+#     default y
 
-config CONFIG_ANALOG_INPUT
-    default y
+# config CONFIG_ANALOG_INPUT
+#     default y
 
-config CONFIG_ANALOG_INPUT_LOG_DBG_RAW
-    default y
+# config CONFIG_ANALOG_INPUT_LOG_DBG_RAW
+#     default y
 
-config CONFIG_ANALOG_INPUT_LOG_DBG_REPORT
-    default y
+# config CONFIG_ANALOG_INPUT_LOG_DBG_REPORT
+#     default y
 
 endif
