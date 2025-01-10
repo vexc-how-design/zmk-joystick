@@ -6,4 +6,8 @@ if SHIELD_BOARDSOURCE3X4
 config ZMK_KEYBOARD_NAME
     default "Boardsource 3x4"
 
+config ZMK_POINTING
+    default y
+
+
 endif
