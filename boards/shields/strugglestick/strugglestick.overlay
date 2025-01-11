@@ -47,7 +47,7 @@
 		sampling-hz = <100>;
 		x-ch {
 			io-channels = <&adc 5>;
-			mv-mid = <2110>;
+			mv-mid = <527>;
 			mv-min-max = <1000>;
 			mv-deadzone = <40>;
 			scale-multiplier = <1>;
@@ -58,7 +58,7 @@
 		};
 		y-ch {
 			io-channels = <&adc 7>;
-			mv-mid = <2110>;
+			mv-mid = <527>;
 			mv-min-max = <1000>;
 			mv-deadzone = <40>;
 			scale-multiplier = <3>;
