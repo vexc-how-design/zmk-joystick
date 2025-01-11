@@ -58,7 +58,7 @@
 		};
 		y-ch {
 			io-channels = <&adc 7>;
-			mv-mid = <1700>;
+			mv-mid = <2500>;
 			mv-min-max = <1000>;
 			mv-deadzone = <100>;
 			scale-multiplier = <3>;
