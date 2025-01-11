@@ -49,7 +49,7 @@
 			io-channels = <&adc 5>;
 			mv-mid = <511>;
 			mv-min-max = <511>;
-			mv-deadzone = <300>;
+			mv-deadzone = <511>;
 			scale-multiplier = <1>;
 			scale-divisor = <70>;
 			invert;
@@ -60,7 +60,7 @@
 			io-channels = <&adc 7>;
 			mv-mid = <511>;
 			mv-min-max = <511>;
-			mv-deadzone = <300>;
+			mv-deadzone = <511>;
 			scale-multiplier = <1>;
 			scale-divisor = <70>;
 			invert;
