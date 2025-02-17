@@ -51,7 +51,7 @@
 			mv-min-max = <0>;
 			mv-deadzone = <100>;
 			scale-multiplier = <1>;
-			scale-divisor = <70>;
+			scale-divisor = <1>;
 			invert;
 			evt-type = <INPUT_EV_REL>;
 			input-code = <INPUT_REL_X>;
@@ -62,7 +62,7 @@
 			mv-min-max = <0>;
 			mv-deadzone = <100>;
 			scale-multiplier = <1>;
-			scale-divisor = <70>;
+			scale-divisor = <1>;
 			invert;
 			evt-type = <INPUT_EV_REL>;
 			input-code = <INPUT_REL_Y>;
